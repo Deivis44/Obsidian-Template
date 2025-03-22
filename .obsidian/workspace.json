@@ -1,0 +1,512 @@
+{
+  "main": {
+    "id": "d0fcc88d9d5804af",
+    "type": "split",
+    "children": [
+      {
+        "id": "626c62b8a14865e0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "183cd27a96d90e15",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "001 Notes",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001 Notes/001 Notes.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"001 Notes\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}}}"
+                },
+                {
+                  "title": "000 Core",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"000 Core/000 Core.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"000 Core\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}}}"
+                },
+                {
+                  "title": "000 Core",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"mk-space\",\"state\":{\"path\":\"000 Core\"},\"icon\":\"lucide-file\",\"title\":\"000 Core\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Fragmentos de Arcoiris",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"mk-space\",\"state\":{\"path\":\"003 Projects/Fragmentos de Arcoiris\"},\"icon\":\"lucide-file\",\"title\":\"Fragmentos de Arcoiris\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "03 Projects/Fragmentos de Arcoiris",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"mk-space\",\"state\":{\"path\":\"03 Projects/Fragmentos de Arcoiris\"},\"icon\":\"lucide-file\",\"title\":\"03 Projects/Fragmentos de Arcoiris\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "03 Projects",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"mk-space\",\"state\":{\"path\":\"03 Projects\"},\"icon\":\"lucide-file\",\"title\":\"03 Projects\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Untitled",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001 Notes/00 Inbox/Untitled.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Untitled\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "001 Notes",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"mk-space\",\"state\":{\"path\":\"001 Notes\"},\"icon\":\"lucide-file\",\"title\":\"001 Notes\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "000 Core",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"mk-space\",\"state\":{\"path\":\"000 Core\"},\"icon\":\"lucide-file\",\"title\":\"000 Core\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Untitled",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Test/000 Core/Untitled.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Untitled\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "000 Core",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"mk-space\",\"state\":{\"path\":\"Test/000 Core\"},\"icon\":\"lucide-file\",\"title\":\"000 Core\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "https://www.make.md/static/latest.md",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"mk-uri-view\",\"state\":{\"path\":\"https://www.make.md/static/latest.md\"},\"icon\":\"lucide-file\",\"title\":\"https://www.make.md/static/latest.md\"}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "003 Projects/003 Projects.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "003 Projects"
+            }
+          },
+          {
+            "id": "89af905d8132cf5a",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4c8cacdb606d9473",
+    "type": "split",
+    "children": [
+      {
+        "id": "a8ade3f22c25974d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "11654050272b13b7",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "1e655405ada4d509",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "5ebbce1605561861",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "80cfeb280c5ba86a",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "574edf4ea96cec6d",
+    "type": "split",
+    "children": [
+      {
+        "id": "85076d251f6f5e09",
+        "type": "tabs",
+        "dimension": 29.68441814595661,
+        "children": [
+          {
+            "id": "23934519dbeb7097",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "697f47ce2a4fd4f3",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          }
+        ]
+      },
+      {
+        "id": "c9bb953834f11bc7",
+        "type": "tabs",
+        "dimension": 36.98224852071006,
+        "children": [
+          {
+            "id": "d2531116a7f260c1",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "0f58b6244d54a986",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "8b0dabee0969f873",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5878629692f64964",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "065a6f50fd5b337c",
+        "type": "tabs",
+        "dimension": 33.33333333333333,
+        "children": [
+          {
+            "id": "7eca27ed65f32b3c",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "https://www.make.md/static/GetStarted.md",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"mk-uri-view\",\"state\":{\"path\":\"https://www.make.md/static/GetStarted.md\"},\"icon\":\"lucide-file\",\"title\":\"https://www.make.md/static/GetStarted.md\"}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "9219039b3666b545",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "003 Projects/003 Projects.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of 003 Projects"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "omnisearch:Omnisearch": false,
+      "random-note:Open random note": false
+    }
+  },
+  "active": "183cd27a96d90e15",
+  "lastOpenFiles": [
+    "003 Projects/003 Projects.md",
+    "001 Notes/001 Notes.md",
+    "000 Core/000 Core.md",
+    "003 Projects/Fragmentos de Arcoiris/Fragmentos de Arcoiris.md",
+    "003 Projects/Fragmentos de Arcoiris",
+    "001 Notes/00 Inbox/Untitled.md",
+    "003 Projects",
+    "001 Notes/02 References/02 References.md",
+    "001 Notes/02 References",
+    "001 Notes/01 Inbox/01 Inbox.md",
+    "001 Notes/01 Inbox",
+    "001 Notes/03 Archive/03 Archive.md",
+    "001 Notes/01 Permanent/01 Permanent.md",
+    "001 Notes/00 Inbox/00 Inbox.md",
+    "001 Notes/03 Archive",
+    "001 Notes/01 Permanent",
+    "001 Notes/00 Inbox",
+    "001 Notes",
+    "000 Core/Templates/Templates.md",
+    "000 Core/Resources/Resources.md",
+    "000 Core/Templates",
+    "000 Core/Resources",
+    "Test/001 Notes/001 Notes.md",
+    "Test/000 Core/Untitled.md",
+    "Test/000 Core/000 Core.md",
+    "Test/Vault.md",
+    "Vault.md"
+  ]
+}

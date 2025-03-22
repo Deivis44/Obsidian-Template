@@ -1,0 +1,12 @@
+{
+  "strictLineBreaks": true,
+  "vimMode": true,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "showUnsupportedFiles": true,
+  "userIgnoreFilters": null,
+  "uriCallbacks": true,
+  "promptDelete": true,
+  "newFileFolderPath": "001 Notes/00 Inbox",
+  "attachmentFolderPath": "000 Core/Resources"
+}

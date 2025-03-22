@@ -1,0 +1,12 @@
+{
+  "strictLineBreaks": true,
+  "vimMode": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Test/001 Notes/00 Inbox",
+  "attachmentFolderPath": "Test/000 Core/Resources",
+  "userIgnoreFilters": [
+    ".ini"
+  ],
+  "showUnsupportedFiles": true,
+  "alwaysUpdateLinks": true
+}
