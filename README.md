@@ -1,1 +1,1 @@
-![Showcase](.SHOWCASE.png)
+![Showcase](SHOWCASE.png)
