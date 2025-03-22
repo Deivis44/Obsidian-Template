@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "003 Projects",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"003 Projects/003 Projects.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"003 Projects\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}}}"
+                },
+                {
                   "title": "001 Notes",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001 Notes/001 Notes.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"001 Notes\"}",
@@ -92,33 +98,12 @@
               ]
             },
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "003 Projects/003 Projects.md",
-                "mode": "source",
-                "source": false
+                "path": "000 Core"
               },
               "icon": "lucide-file",
-              "title": "003 Projects"
-            }
-          },
-          {
-            "id": "89af905d8132cf5a",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "title": "000 Core"
             }
           }
         ],
@@ -430,7 +415,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "003 Projects/003 Projects.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -458,7 +442,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 003 Projects"
+              "title": "Graph view"
             }
           }
         ]
@@ -479,11 +463,13 @@
       "random-note:Open random note": false
     }
   },
-  "active": "183cd27a96d90e15",
+  "active": "7eca27ed65f32b3c",
   "lastOpenFiles": [
+    "SHOWCASE.png",
+    "Pasted image.png",
+    "000 Core/000 Core.md",
     "003 Projects/003 Projects.md",
     "001 Notes/001 Notes.md",
-    "000 Core/000 Core.md",
     "003 Projects/Fragmentos de Arcoiris/Fragmentos de Arcoiris.md",
     "003 Projects/Fragmentos de Arcoiris",
     "001 Notes/00 Inbox/Untitled.md",

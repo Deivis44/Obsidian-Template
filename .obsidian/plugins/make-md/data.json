@@ -41,8 +41,8 @@
     "//03 Projects",
     "//000 Core",
     "//001 Notes",
-    "/",
-    "//003 Projects"
+    "//003 Projects",
+    "/"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
