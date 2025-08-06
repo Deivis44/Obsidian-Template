@@ -37,11 +37,8 @@
   "expandedSpaces": [
     "//Test/Test/000 Core",
     "//Test",
-    "//001 Notes/001 Notes/00 Inbox",
     "//03 Projects",
-    "//000 Core",
-    "//001 Notes",
-    "//003 Projects",
+    "//001 Notes/001 Notes/00 Inbox",
     "/"
   ],
   "expandFolderOnClick": true,

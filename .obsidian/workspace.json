@@ -18,52 +18,10 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "003 Projects",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"003 Projects/003 Projects.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"003 Projects\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}}}"
-                },
-                {
-                  "title": "001 Notes",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001 Notes/001 Notes.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"001 Notes\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}}}"
-                },
-                {
-                  "title": "000 Core",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"000 Core/000 Core.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"000 Core\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}}}"
-                },
-                {
                   "title": "000 Core",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"mk-space\",\"state\":{\"path\":\"000 Core\"},\"icon\":\"lucide-file\",\"title\":\"000 Core\"}",
                   "eState": "{}"
-                },
-                {
-                  "title": "Fragmentos de Arcoiris",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"mk-space\",\"state\":{\"path\":\"003 Projects/Fragmentos de Arcoiris\"},\"icon\":\"lucide-file\",\"title\":\"Fragmentos de Arcoiris\"}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "03 Projects/Fragmentos de Arcoiris",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"mk-space\",\"state\":{\"path\":\"03 Projects/Fragmentos de Arcoiris\"},\"icon\":\"lucide-file\",\"title\":\"03 Projects/Fragmentos de Arcoiris\"}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "03 Projects",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"mk-space\",\"state\":{\"path\":\"03 Projects\"},\"icon\":\"lucide-file\",\"title\":\"03 Projects\"}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Untitled",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"001 Notes/00 Inbox/Untitled.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Untitled\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
                   "title": "001 Notes",
@@ -78,21 +36,15 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "Untitled",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Test/000 Core/Untitled.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Untitled\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                  "title": "SHOWCASE1",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"SHOWCASE1.png\"},\"icon\":\"lucide-image\",\"title\":\"SHOWCASE1\"}",
+                  "eState": "{}"
                 },
                 {
                   "title": "000 Core",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"mk-space\",\"state\":{\"path\":\"Test/000 Core\"},\"icon\":\"lucide-file\",\"title\":\"000 Core\"}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "https://www.make.md/static/latest.md",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"mk-uri-view\",\"state\":{\"path\":\"https://www.make.md/static/latest.md\"},\"icon\":\"lucide-file\",\"title\":\"https://www.make.md/static/latest.md\"}",
+                  "state": "{\"type\":\"mk-space\",\"state\":{\"path\":\"000 Core\"},\"icon\":\"lucide-file\",\"title\":\"000 Core\"}",
                   "eState": "{}"
                 }
               ]
@@ -100,10 +52,10 @@
             "state": {
               "type": "mk-space",
               "state": {
-                "path": "000 Core"
+                "path": "001 Notes"
               },
               "icon": "lucide-file",
-              "title": "000 Core"
+              "title": "001 Notes"
             }
           }
         ],
@@ -188,7 +140,7 @@
             }
           },
           {
-            "id": "80cfeb280c5ba86a",
+            "id": "ee386679f66b2717",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -384,12 +336,6 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "https://www.make.md/static/GetStarted.md",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"mk-uri-view\",\"state\":{\"path\":\"https://www.make.md/static/GetStarted.md\"},\"icon\":\"lucide-file\",\"title\":\"https://www.make.md/static/GetStarted.md\"}",
-                  "eState": "{}"
                 }
               ]
             },
@@ -459,22 +405,25 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "omnisearch:Omnisearch": false,
-      "random-note:Open random note": false
+      "random-note:Open random note": false,
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "7eca27ed65f32b3c",
+  "active": "183cd27a96d90e15",
   "lastOpenFiles": [
+    "SHOWCASE2.png",
+    "image.png",
     "SHOWCASE1.png",
     "SHOWCASE.png",
+    "001 Notes/001 Notes.md",
+    "000 Core/000 Core.md",
+    "001 Notes/00 Inbox/Untitled.md",
+    "Tags",
     "Pasted image.png",
     "README.md",
-    "000 Core/000 Core.md",
     "003 Projects/003 Projects.md",
-    "001 Notes/001 Notes.md",
     "003 Projects/Fragmentos de Arcoiris/Fragmentos de Arcoiris.md",
     "003 Projects/Fragmentos de Arcoiris",
-    "001 Notes/00 Inbox/Untitled.md",
     "003 Projects",
     "001 Notes/02 References/02 References.md",
     "001 Notes/02 References",
@@ -490,7 +439,6 @@
     "000 Core/Templates/Templates.md",
     "000 Core/Resources/Resources.md",
     "000 Core/Templates",
-    "000 Core/Resources",
     "Test/001 Notes/001 Notes.md",
     "Test/000 Core/Untitled.md",
     "Test/000 Core/000 Core.md",
