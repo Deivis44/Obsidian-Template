@@ -25,6 +25,10 @@ Captura todo en `010 Inbox`. Al revisar, mueve cada nota a `020 Areas` si es una
 - `050 Review`: revisiones y planes de estudio.
 - `090 Archive`: material cerrado o inactivo.
 
+## Base
+
+El flujo esta basado en recuperacion activa, repeticion espaciada, practica con problemas, intercalado y elaboracion. La nota corta esta en [[000 Core/System/Base cientifica]].
+
 ## Regla de oro
 
 El sistema debe ayudarte a estudiar y pensar, no convertirse en otra tarea.

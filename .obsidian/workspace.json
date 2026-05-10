@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "README",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"README\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
                   "title": "README2",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README2.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"README2\"}",
@@ -230,47 +236,12 @@
               ]
             },
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "2adf739df37572fa",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Vault",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Vault.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Vault\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Notes",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"mk-space\",\"state\":{\"path\":\"/\"},\"icon\":\"lucide-file\",\"title\":\"Notes\"}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
               "type": "mk-space",
               "state": {
-                "path": "/"
+                "path": "Tags"
               },
               "icon": "lucide-file",
-              "title": "Notes"
+              "title": "Tags"
             }
           },
           {
@@ -541,7 +512,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "Vault.md"
+                "file": "Tags/Tags.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -748,10 +719,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "aaeb90f2b15c0a81",
+  "active": "85c17120af6f8317",
   "lastOpenFiles": [
-    "README.md",
+    "050 Review/Review Queue.md",
+    "000 Core/System/Base cientifica.md",
+    "Tags/Tags.md",
     "Vault.md",
+    "README.md",
     "Untitled.md",
     "README2.md",
     "090 Archive/090 Archive.md",
@@ -774,9 +748,6 @@
     "copilot/copilot-custom-prompts/Generate glossary.md",
     "copilot/copilot-custom-prompts/Generate table of contents.md",
     "copilot/copilot-custom-prompts/Make longer.md",
-    "copilot/copilot-custom-prompts/Make shorter.md",
-    "copilot/copilot-custom-prompts/Emojify.md",
-    "copilot/copilot-custom-prompts/Explain like I am 5.md",
     "copilot/copilot-custom-prompts",
     "copilot",
     "090 Archive",

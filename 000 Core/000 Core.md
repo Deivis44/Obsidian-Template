@@ -12,6 +12,7 @@ Aqui vive el sistema operativo del vault: reglas, plantillas, dashboards y docum
 - [[000 Core/Templates/Templates|Templates]]: plantillas reutilizables.
 - [[000 Core/Dashboards/Home|Dashboards]]: vistas de trabajo.
 - [[000 Core/System/Principios del sistema|System]]: principios y convenciones.
+- [[000 Core/System/Base cientifica|Base cientifica]]: por que el flujo ayuda a estudiar.
 
 ## Regla
 

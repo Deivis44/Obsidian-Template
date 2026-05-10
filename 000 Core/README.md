@@ -52,4 +52,5 @@ Una buena nota tiene titulo claro, contexto suficiente, enlaces utiles y una pre
 - No crees carpetas nuevas por impulso; primero usa una nota mapa en `040 Knowledge/Maps`.
 - No resumas por resumir: convierte lo importante en preguntas, problemas o conceptos.
 - Un proyecto activo siempre debe tener una siguiente accion pequena.
+- Lo dificil vuelve a `050 Review/Review Queue` con fecha.
 - El sistema se mejora en la revision semanal, no durante cada captura.

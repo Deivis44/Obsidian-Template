@@ -18,4 +18,5 @@
 
 - [[040 Knowledge/Problems/Problems]]
 - [[040 Knowledge/Flashcards/Flashcards]]
+- [[050 Review/Review Queue]]
 - [[050 Review/Study Plans/Study Plans]]

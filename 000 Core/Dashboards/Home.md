@@ -4,6 +4,7 @@
 
 - Inbox: [[010 Inbox/README - Quickstart]]
 - Proyectos activos: [[030 Projects/Activos/Activos]]
+- Cola de repaso: [[050 Review/Review Queue]]
 - Planes de estudio: [[050 Review/Study Plans/Study Plans]]
 - Revision semanal: [[050 Review/Weekly Reviews/Weekly Reviews]]
 

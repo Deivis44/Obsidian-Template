@@ -6,6 +6,7 @@ Aqui vive el mantenimiento del sistema y del aprendizaje.
 
 - [[Weekly Reviews/Weekly Reviews]]
 - [[Study Plans/Study Plans]]
+- [[Review Queue]]
 
 ## Revision semanal KISS
 
