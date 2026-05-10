@@ -1,7 +1,9 @@
 {
   "cssTheme": "Border",
-  "interfaceFontFamily": "Satoshi,Rubik,SF Pro Display",
-  "textFontFamily": "Satoshi,Arbutus Slab,Georgia,SF Pro Text",
+  "interfaceFontFamily": "Adwaita Sans,Satoshi,Rubik,SF Pro Display",
+  "textFontFamily": "Satoshi,Adwaita Sans,Arbutus Slab,Georgia,SF Pro Text",
   "monospaceFontFamily": "JetBrainsMono Nerd Font Mono,CaskaydiaCove Nerd Font Mono,Source Code Pro,Fira Code",
-  "theme": "obsidian"
+  "theme": "moonstone",
+  "enabledCssSnippets": [],
+  "baseFontSize": 18
 }
